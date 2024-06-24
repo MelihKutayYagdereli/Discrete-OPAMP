@@ -17,3 +17,5 @@ generate them from the supplies.
 Note that these are the minimum requirements, if you can do better it is appreciated.
 Your circuit will be tested as shown in Figure 1, + terminal will be grounded, R1=R2=5kΩ, and
 Vout =-Vin should be observed.
+![download](https://github.com/MelihKutayYagdereli/Discrete-OPAMP/assets/122688232/03cb7090-2124-4167-b67c-23399f6fc566)
+![download (1)](https://github.com/MelihKutayYagdereli/Discrete-OPAMP/assets/122688232/4b4ae6b2-3969-48c2-9c18-e218d418f3d6)
