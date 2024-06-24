@@ -17,5 +17,9 @@ generate them from the supplies.
 Note that these are the minimum requirements, if you can do better it is appreciated.
 Your circuit will be tested as shown in Figure 1, + terminal will be grounded, R1=R2=5kΩ, and
 Vout =-Vin should be observed.
-![download](https://github.com/MelihKutayYagdereli/Discrete-OPAMP/assets/122688232/03cb7090-2124-4167-b67c-23399f6fc566)
-![download (1)](https://github.com/MelihKutayYagdereli/Discrete-OPAMP/assets/122688232/4b4ae6b2-3969-48c2-9c18-e218d418f3d6)
+
+![download 6png](https://github.com/MelihKutayYagdereli/Discrete-OPAMP/assets/122688232/6fc9cdb6-5291-46bf-8a97-d4af46d04d70)
+photo 1: The Discrete-OPAMP Circuit on Breadboard
+
+![download (5)](https://github.com/MelihKutayYagdereli/Discrete-OPAMP/assets/122688232/f48a2b0c-c16d-4c58-b64a-6f1a16ed3248)
+photo 2: The Final Input Output Comparison Results
